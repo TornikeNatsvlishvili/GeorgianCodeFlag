@@ -7,10 +7,10 @@ Examples:
 
 ![Red example](/examples/GeoFlagRed.jpg?raw=true)
 ![Light Green example](/examples/GeoFlagLightGreen.png?raw=true)
-![Dark Green  example](/examples/GeoFlagDarkGreen.png?raw=true)
-![Dark Green  example](/examples/GeoFlagDarkBlue.png?raw=true)
-![Dark Green  example](/examples/GeoFlagDarkEmerald.png?raw=true)
-![Dark Green  example](/examples/GeoFlagDarkFuchsia.png?raw=true)
+![Dark Green example](/examples/GeoFlagDarkGreen.png?raw=true)
+![Dark Blue example](/examples/GeoFlagBlue.png?raw=true)
+![Dark Emrald example](/examples/GeoFlagEmerald.png?raw=true)
+![Dark Fuchsia example](/examples/GeoFlagFuchsia.png?raw=true)
 
 
 
