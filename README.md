@@ -10,7 +10,7 @@ Examples:
 ![Dark Green  example](/examples/GeoFlagDarkGreen.png?raw=true)
 ![Dark Green  example](/examples/GeoFlagDarkBlue.png?raw=true)
 ![Dark Green  example](/examples/GeoFlagDarkEmerald.png?raw=true)
-
+![Dark Green  example](/examples/GeoFlagDarkFuchsia.png?raw=true)
 
 
 
