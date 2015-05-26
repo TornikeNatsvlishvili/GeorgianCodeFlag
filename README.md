@@ -8,7 +8,8 @@ Examples:
 ![Red example](/examples/GeoFlagRed.jpg?raw=true)
 ![Light Green example](/examples/GeoFlagLightGreen.png?raw=true)
 ![Dark Green  example](/examples/GeoFlagDarkGreen.png?raw=true)
-
+![Dark Green  example](/examples/GeoFlagDarkBlue.png?raw=true)
+![Dark Green  example](/examples/GeoFlagDarkEmerald.png?raw=true)
 
 
 
