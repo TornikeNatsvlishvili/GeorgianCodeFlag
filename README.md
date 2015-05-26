@@ -5,4 +5,4 @@ PSD includes source & effects to customize.
 
 Examples:
 
-[Red example](GeoFlagRed.jpg)
+![Red example](https://raw.github.com/natunini/GeorgianCodeFlag/master/GeoRedFlag.jpg)
