@@ -5,4 +5,4 @@ PSD includes source & effects to customize.
 
 Examples:
 
-![Red example](/examples/GeoRedFlag.jpg?raw=true)
+![Red example](/examples/GeoFlagRed.jpg?raw=true)
