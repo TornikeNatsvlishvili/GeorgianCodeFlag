@@ -5,6 +5,7 @@ PSD includes source & effects to customize.
 
 Examples:
 
+![Red example](/examples/GeoFlagRedBig.png?raw=true)
 ![Red example](/examples/GeoFlagRed.jpg?raw=true)
 ![Light Green example](/examples/GeoFlagLightGreen.png?raw=true)
 ![Dark Green example](/examples/GeoFlagDarkGreen.png?raw=true)
