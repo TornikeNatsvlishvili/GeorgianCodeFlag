@@ -1,2 +1,8 @@
 # GeorgianCodeFlag
 Georgian flag image made with code
+
+PSD includes source & effects to customize.
+
+Examples:
+
+[Red example](GeoFlagRed.jpg)
